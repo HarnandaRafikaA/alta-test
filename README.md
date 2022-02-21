@@ -1,3 +1,3 @@
 ini demo git
 ini merupakan perubahan di branch test
-perubahan dari local
+ini merupakan perubahan dari orang lain
